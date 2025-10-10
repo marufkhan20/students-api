@@ -29,7 +29,9 @@ go.work.sum
 
 # Editor/IDE
 # .idea/
-# .vscode/
 
 /storage
 /config
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
